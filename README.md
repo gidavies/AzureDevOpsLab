@@ -31,7 +31,7 @@ In order to have a single flow this lab assumes that you will use the New Naviga
 To enable the New Navigation follow these steps:
 
 1. In Azure DevOps, in the top right hand corner click on your profile picture (or initials if no photo), and then select Preview features:
-<img src="images/NewUI1.png" width="350"/>
+<img src="images/NewUI1.png" width="300"/>
 
 2. Turn on the toggle for the New Navigation and click on the X close button to close the preview features: 
 <img src="images/NewUI2.png" width="350"/>
