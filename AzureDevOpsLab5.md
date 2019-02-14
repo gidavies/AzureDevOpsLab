@@ -112,4 +112,4 @@ Congratulations! You have now created a branch from a work item, cloned that loc
 
 You are now able to continuously deliver value (changes in the application).
 
-[<- Lab 4: Agile planning with Azure Boards](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab4.md) | [Lab 6: Improve the continuous integration ->](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab6.md)
+[<- Lab 4: Agile planning with Azure Boards](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab4.md) | [Lab 6: Extend the release pipeline ->](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab6.md)
