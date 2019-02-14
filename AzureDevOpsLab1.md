@@ -33,6 +33,28 @@ This step will use the Azure Portal DevOps Projects to create the complete initi
 
 # Step 2: Explore the created resources
 
+In this step you will take a look at what's been created.
+
+- You should see something like this:
+<img src="images/Lab1_12.jpg" width="624"/>
+- Looking at the CI/CD section the Code section is telling us that the source code for an example app was added to the Git repo in our project:
+<img src="images/Lab1_13.jpg" width="624"/>
+- The build section shows that a continuous integration (CI) build definition has been created and is running (or has run, depending on timing):
+<img src="images/Lab1_14.jpg" width="624"/>
+- The section marked dev is showing that a continuous deployment pipeline has been created and is either due to run, is running or has run:
+<img src="images/Lab1_15.jpg" width="624"/>
+- Wait a few minutes or click refresh until the deployment is complete:
+<img src="images/Lab1_16.jpg" width="624"/>
+- In the Azure resources section we can see that an Azure Web App has been created, that it is running and Release-1 has been successful. Click on the application endpoint URL to view the newly deployed web application:
+<img src="images/Lab1_17.jpg" width="624"/>
+
+You should see you newly created and depoyed web application running in Azure:
+<img src="images/Lab1_18.jpg" width="624"/>
+
+# Step 3: Exploring the Azure DevOps pipeline
+
+- Return to the Azure Portal page and you can also see a number of links into the Azure DevOps project, such as build and release pipelines. Click on the Project homepage:
+<img src="images/Lab1_19.jpg" width="624"/>
 
 
 [<- Introduction](https://github.com/gidavies/AzureDevOpsLab/blob/master/README.md) | [Lab 2: Agile planning using Azure Boards ->](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab2.md)
