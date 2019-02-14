@@ -85,9 +85,9 @@ In the Azure resources section we can see that an Azure Web App has been created
 You should see your newly created and deployed web application running in Azure:
 <img src="images/Lab1_18.jpg" width="624"/>
 
-# Step 3: Exploring the Azure DevOps pipeline
+# Step 3: Exploring the Azure DevOps build pipeline
 
-In this step you'll explore the Azure DevOps project itself.
+In this step you'll explore the build definition created in the Azure DevOps project.
 
 Return to the Azure Portal page and you can also see a number of links into the Azure DevOps project, such as build and release pipelines. Click on the Project homepage:
 <img src="images/Lab1_19.jpg" width="624"/>
