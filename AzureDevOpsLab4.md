@@ -60,4 +60,4 @@ You will be redirected to the Azure Repos file area and you will see that the ne
 
 You have now added work to a board, and are ready to make code changes in an independent branch without directly impacting the master branch. In the next lab we will change the branch and merge in back into the master branch via a Pull Request.
 
-[<- Lab 2: Exploring the created Azure DevOps build pipeline](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab2.md) | [Lab 4: Agile planning using Azure Boards ->](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab4.md)
+[<- Lab 3: Exploring the created Azure DevOps release pipeline](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab3.md) | [Lab 5: Deploy via a Pull Request ->](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab5.md)
