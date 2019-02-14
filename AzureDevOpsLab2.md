@@ -64,4 +64,4 @@ Finally look at the Triggers tab to see that this build has been set to trigger 
 
 <img src="images/Lab2_12.jpg" width="624"/>
 
-[<- Lab 1: Create the basic pipeline](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab1.md) | [Lab 3: Exploring the created Azure DevOps release pipeline ->](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab2.md)
+[<- Lab 1: Create the basic pipeline](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab1.md) | [Lab 3: Exploring the created Azure DevOps release pipeline ->](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab3.md)
