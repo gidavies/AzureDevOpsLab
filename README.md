@@ -1,6 +1,6 @@
 # AzureDevOpsLab
 
-This lab will step through the key elements in setting up and using a release pipeline with Azure DevOps.
+This set of labs will step through the key elements in setting up and using a release pipeline with Azure DevOps.
 
 ## Background information
 
@@ -11,7 +11,7 @@ This lab will step through the key elements in setting up and using a release pi
 # Overall flow
 
 - [Lab 1: Create the basic pipeline](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab1.md)
-- [Lab 2: Plan using Azure Boards](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab2.md)
+- [Lab 2: Agile planning using Azure Boards](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab2.md)
 - [Lab 3: Deploy via a Pull Request](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab3.md)
 - [Lab 4: Improve the continuous integration](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab4.md)
 - [Lab 5: Extend the continuous deployment](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab5.md)
