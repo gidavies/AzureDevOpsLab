@@ -37,6 +37,6 @@ Return to the pipeline view (Pipeline tab) and click on the lightning flash on t
 
 <img src="images/Lab3_6.jpg" width="624"/>
 
-You have now looked at some of the key elements of the release definition that provides the continuous deployment pipeline.
+You have now looked at some of the key elements of the release definition that provides the continuous deployment pipeline. Next we will look at the overall flow that results in a new release being deployed.
 
 [<- Lab 2: Exploring the created Azure DevOps build pipeline](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab2.md) | [Lab 4: Agile planning using Azure Boards ->](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab4.md)
