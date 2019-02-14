@@ -8,7 +8,7 @@ In the Repos | Files area select Clone and click the copy button to the right of
 
 <img src="images/Lab5_1a.jpg" width="624"/>
 
-At the command line (terminal/powershell etc.) switch to a folder within which you'll be happy to have the source code top level folder cloned to (e.g. C:\). Then clone the repo by typing "git clone" and paste in the URL from above. If prompted sign in using the same credentials as you are using to access Azure DevOps:
+At the command line (terminal/powershell etc.) switch to a folder within which you'll be happy to have the source code top level folder cloned to (e.g. C:\). Then clone the repo by typing "git clone" and paste in the URL from above. If prompted sign in using the same credentials you're using to access Azure DevOps:
 
 <img src="images/Lab5_2a.jpg" width="624"/>
 
@@ -24,7 +24,7 @@ We now need to switch to the branch created earlier. In Visual Studio Code enter
 
 <img src="images/Lab5_5.jpg" width="624"/>
 
-Select the git: checkout to option by starting typing and then select the option:
+Select the Git: Checkout to... option by starting typing and then select the option:
 
 <img src="images/Lab5_6.jpg" width="624"/>
 
@@ -68,7 +68,7 @@ Then in Visual Studio Code repeat the commit step above (click the tick mark). Y
 
 <img src="images/Lab5_16.jpg" width="624"/>
 
-To confirm that the push has reached the Azure Repo, in Azure DevOps select Repos | Files, make sure that the correct branch is select, click on history and see that the latest history is the commit you've just pushed:
+To confirm that the push has reached the Azure Repo, in Azure DevOps select Repos | Files, make sure that the correct branch is selected, click on history and see that the latest history is the commit you've just pushed:
 
 <img src="images/Lab5_17.jpg" width="624"/>
 
@@ -109,5 +109,7 @@ That now means that the master branch has been committed to (after the merge), a
 <img src="images/Lab5_26.jpg" width="624"/>
 
 Congratulations! You have now created a branch from a work item, cloned that locally, made a change and merged that back into the master branch via a Pull Request, which has then triggered continuous integration and continuous deployment of the changes into the web application in Azure.
+
+You are now able to continuously deliver value (changes in the application).
 
 [<- Lab 4: Agile planning with Azure Boards](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab4.md) | [Lab 6: Improve the continuous integration ->](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab6.md)
