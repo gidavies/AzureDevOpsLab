@@ -1,8 +1,8 @@
-# Lab 2: Exploring the created Azure DevOps pipeline
+# Lab 2: Exploring the created Azure DevOps Build pipeline
 
-The end to end pipeline has been created and has deployed your application into Azure. In this lab we will explore and understand the build and release pipelines that have been created.
+The end to end pipeline has been created and has deployed your application into Azure. In this lab we will explore and understand the build pipeline that has been created.
 
-# Step 1: Understanding the continuous integration build definition
+# Understanding the continuous integration build definition
 
 In this step you'll explore the build definition created in the Azure DevOps project.
 
@@ -20,7 +20,7 @@ Select Pipelines | Builds:
 
 You will see the build definition and the build history (in this case 1 successful build):
 
-<img src="images/Lab3_4.jpg" width="624"/>
+<img src="images/Lab2_4.jpg" width="624"/>
 
 Let's start by looking at the build logs. Click on the build in the build history:
 
