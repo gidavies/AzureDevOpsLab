@@ -33,4 +33,6 @@ The lab has been designed so that you don't need to compile and debug locally (i
 - Available for Windows, Mac and Linux.
 - A good code editor and has built in Git integration.
 
+You will also need an Azure DevOps organisation but if you don't already have one it will be created in the first lab.
+
 [Lab 1: Create the basic pipeline ->](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab1.md)
