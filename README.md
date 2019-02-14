@@ -13,7 +13,7 @@ This set of labs will step through the key elements in setting up and using a re
 - [Lab 1: Create the basic pipeline](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab1.md)
 - [Lab 2: Exploring the created Azure DevOps build pipeline](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab2.md)
 - [Lab 3: Exploring the created Azure DevOps release pipeline](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab3.md)
-- [Lab 4: Agile planning using Azure Boards](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab4.md)
+- [Lab 4: Agile planning with Azure Boards](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab4.md)
 - [Lab 5: Deploy via a Pull Request](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab5.md)
 - [Lab 6: Improve the continuous integration](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab6.md)
 - [Lab 7: Extend the continuous deployment](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab7.md)
