@@ -2,7 +2,7 @@
 
 This lab will step through the key elements in setting up and using a release pipeline with Azure DevOps.
 
->Background information
+## Background information
 
 >[What is DevOps?](https://www.visualstudio.com/learn/what-is-devops/)
 
