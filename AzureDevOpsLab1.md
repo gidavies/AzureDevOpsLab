@@ -86,4 +86,4 @@ You should see your newly created and deployed web application running in Azure:
 
 <img src="images/Lab1_18.jpg" width="624"/>
 
-[<- Introduction](https://github.com/gidavies/AzureDevOpsLab/blob/master/README.md) | [Lab 2: Exploring the created Azure DevOps pipeline ->](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab2.md)
+[<- Introduction](https://github.com/gidavies/AzureDevOpsLab/blob/master/README.md) | [Lab 2: Exploring the created Azure DevOps build pipeline ->](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab2.md)

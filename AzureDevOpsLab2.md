@@ -1,6 +1,6 @@
-# Lab 2: Exploring the created Azure DevOps Build pipeline
+# Lab 2: Exploring the created Azure DevOps build pipeline
 
-The end to end pipeline has been created and has deployed your application into Azure. In this lab we will explore and understand the build pipeline that has been created.
+The end to end pipeline has been created and has deployed your application into Azure. In this lab we will explore and understand the continuous integration build pipeline that has been created.
 
 # Understanding the continuous integration build definition
 
@@ -64,4 +64,4 @@ Finally look at the Triggers tab to see that this build has been set to trigger 
 
 <img src="images/Lab2_12.jpg" width="624"/>
 
-[<- Create the basic pipeline](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab1.md) | [Lab 3: Agile planning using Azure Boards ->](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab2.md)
+[<- Lab 1: Create the basic pipeline](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab1.md) | [Lab 3: Exploring the created Azure DevOps release pipeline ->](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab2.md)
