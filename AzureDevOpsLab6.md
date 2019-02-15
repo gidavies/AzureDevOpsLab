@@ -20,7 +20,11 @@ Click on the 1 job, 4 tasks link in the newly created QA stage:
 
 <img src="images/Lab6_4.jpg" width="624"/>
 
-Edit the provisioning task to create a new QA resource group and a web app with a different name - append "QA" to both strings:
+Edit the provisioning task to and make three changes to create an entirely separate QA web application from the Dev web application:
+
+* Change the resource group name to a new one e.g. with QA in the name.
+* Change the name of the web app.
+* Change the name of the app service plan.
 
 <img src="images/Lab6_5.jpg" width="624"/>
 
@@ -32,7 +36,7 @@ Save the changes to the QA tasks:
 
 <img src="images/Lab6_7.jpg" width="624"/>
 
-# Step 2: Add a pre-deployment approval to the QA environment
+# Step 2: Add a pre-deployment approval to the QA stage
 
 Select the pipeline view:
 
@@ -72,13 +76,12 @@ Note that any one of the two approvers (a group and a person) can complete the a
 
 <img src="images/Lab6_15.jpg" width="624"/>
 
+The QA environment should then be succesfully created:
 
+<img src="images/Lab6_16.jpg" width="624"/>
 
+If you check in the Azure Portal you should now see the newly created Resource Group for the QA service plan and web application:
 
+<img src="images/Lab6_17.jpg" width="624"/>
 
-
-
-
-
-
-[<- Lab 5: Deploy changes via a Pull Request](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab5.md) | [Lab 7: Improve the continuous integration ->](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab7.md)
+[<- Lab 5: Deploy changes via a Pull Request](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab5.md) | [Lab 7: Create a release dashboard ->](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab7.md)

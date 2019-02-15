@@ -16,8 +16,8 @@ This set of labs will step through the key elements in setting up and using a re
 - [Lab 4: Agile planning with Azure Boards](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab4.md)
 - [Lab 5: Deploy changes via a Pull Request](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab5.md)
 - [Lab 6: Extend the release pipeline](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab6.md)
-- [Lab 7: Extend the continuous deployment](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab7.md)
-- [Lab 8: Automated Testing with Selenium](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab8.md)
+- [Lab 7: Create a release dashboard](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab7.md)
+- [Lab 8: Add additional Selenium tests](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab8.md)
 - [Lab 9: Monitoring with Application Insights](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab9.md)
 
 Azure DevOps supports any app and doesn't require the use of Visual Studio, .NET or other Microsoft languages or platforms. [Labs that work through implementing DevOps with Node, Java, Eclipse, IntelliJ, Docker and more are available here](https://www.azuredevopslabs.com/).
