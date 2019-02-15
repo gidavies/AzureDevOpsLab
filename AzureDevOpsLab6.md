@@ -62,7 +62,7 @@ Save the changes and create a release manually to test the changes:
 
 Keep the defaults (although note the options to limit the stages deployed to and to select the artifact versions) and clicj Create:
 
-<img src="images/Lab6_12.jpg" width="624"/>
+<img src="images/Lab6_12.jpg" width="312"/>
 
 Click on the release link to watch the release:
 
