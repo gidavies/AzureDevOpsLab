@@ -38,7 +38,7 @@ Select additional settings:
 
 <img src="images/Lab1_7.jpg" width="624"/>
 
-Note that if you don't have, or want to create a different, Azure DevOps Organisation you can choose to create one here. You may want to set the Pricing tier to the F1 Free and also change where the Application Insights telemetry will be located. Click OK when done:
+Note that if you don't have, or want to create a different, Azure DevOps Organisation you can choose to create one here. The name you entered in the previous screen will be used as the organisation name, and then select Yes to create it. You may also want to set the Pricing tier to the F1 Free and also change where the Application Insights telemetry will be located. Click OK when done:
 
 <img src="images/Lab1_8.jpg" width="312"/>
 

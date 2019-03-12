@@ -20,7 +20,7 @@ Expand the Application and ARM folders and you can see that at the top level are
 
 <img src="images/Lab5_4.jpg" width="624"/>
 
-We now need to switch to the branch created earlier. In Visual Studio Code enter the Command Palette by using the View | Command Palette or the OS specific shortcut keys (Windows + P, or CMD + P on a Mac):
+We now need to switch to the branch created earlier. In Visual Studio Code enter the Command Palette by using the View | Command Palette or the OS specific shortcut keys (F1 on Windows, CMD + P on a Mac):
 
 <img src="images/Lab5_5.jpg" width="624"/>
 
