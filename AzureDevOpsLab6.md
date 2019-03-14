@@ -20,13 +20,9 @@ Click on the 1 job, 4 tasks link in the newly created QA stage:
 
 <img src="images/Lab6_4.jpg" width="624"/>
 
-Edit the provisioning task to and make three changes to create an entirely separate QA web application from the Dev web application:
+Edit the provisioning task to change the web application name to create a seperate web application to the development one. I've added QA to the name:
 
-* Change the resource group name to a new one e.g. with QA in the name.
-* Change the name of the web app.
-* Change the name of the app service plan.
-
-<img src="images/Lab6_5.jpg" width="624"/>
+<img src="images/Lab6_5a.jpg" width="624"/>
 
 Edit the deployment task to reference the same name as set in the provisioning step above:
 
@@ -80,8 +76,6 @@ The QA environment should then be succesfully created:
 
 <img src="images/Lab6_16.jpg" width="624"/>
 
-If you check in the Azure Portal you should now see the newly created Resource Group for the QA service plan and web application:
-
-<img src="images/Lab6_17.jpg" width="624"/>
+If you want you can check in the Azure Portal. Find the resource group and notice that there are now 2 web applications, one for dev and one for QA. Click on the QA web application and in the overview page there will be the URL to open the newly provisioned and deployed QA web application.
 
 [<- Lab 5: Deploy changes via a Pull Request](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab5.md) | [Lab 7: Create a release dashboard ->](https://github.com/gidavies/AzureDevOpsLab/blob/master/AzureDevOpsLab7.md)
