@@ -20,7 +20,7 @@ Click on the 1 job, 4 tasks link in the newly created QA stage:
 
 <img src="images/Lab6_4.jpg" width="624"/>
 
-Edit the provisioning task to change the web application name to create a seperate web application to the development one. I've added QA to the name:
+Edit the provisioning task to change the web application name to create a separate web application to the development one. I've added QA to the name:
 
 <img src="images/Lab6_5a.jpg" width="624"/>
 
@@ -56,7 +56,7 @@ Save the changes and create a release manually to test the changes:
 
 <img src="images/Lab6_11.jpg" width="624"/>
 
-Keep the defaults (although note the options to limit the stages deployed to and to select the artifact versions) and clicj Create:
+Keep the defaults (although note the options to limit the stages deployed to and to select the artifact versions) and click Create:
 
 <img src="images/Lab6_12.jpg" width="312"/>
 
