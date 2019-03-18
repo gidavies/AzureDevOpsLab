@@ -12,7 +12,7 @@ You will see that the backlog is empty and that no work has been assigned to any
 
 <img src="images/Lab4_2a.jpg" width="624"/>
 
-Give the work item a title e.g. "Update the about page in the web application" and click the Add to bottom button:
+Give the work item (a user story by default if using the Agile template) a title e.g. "Update the about page in the web application" and click the Add to bottom button:
 
 <img src="images/Lab4_3a.jpg" width="624"/>
 
@@ -42,7 +42,7 @@ In the Board create a new item called "Update home page heading":
 
 <img src="images/Lab4_9a.jpg" width="624"/>
 
-Move (drag and drop) it to the first column (Active if using the default Agile process) column to indicate that you are going to start work on it:
+Move (drag and drop) it to the first column (Active if using the default Agile process) to indicate that you are going to start work on it:
 
 <img src="images/Lab4_10a.jpg" width="624"/>
 
@@ -50,7 +50,7 @@ Click on the card's three dots and select New branch:
 
 <img src="images/Lab4_11.jpg" width="624"/>
 
-Give the branch a name (no spaces) and notice that the branch is linked to the product backlog item (you could link to others if desired) and will be branching from the master branch. Click Create branch:
+Give the branch a name (no spaces) and notice that the branch is linked to the work item (or you could link to others if you want) and will be branching from the master branch. Click Create branch:
 
 <img src="images/Lab4_12.jpg" width="624"/>
 
