@@ -36,6 +36,10 @@ You can add more columns, rename existing columns, add swimlanes, choose which f
 
 <img src="images/Lab4_8.jpg" width="624"/>
 
+As an example we've added a swimlane called Expedite (to show work that needs to be given priority) and added a style that changes the card colour if the priority field is equal to 1:
+
+<img src="images/Lab4_8b.jpg" width="624"/>
+
 # Step 2: Add a new item and create a branch to work on it
 
 In the Board create a new item called "Update home page heading":
