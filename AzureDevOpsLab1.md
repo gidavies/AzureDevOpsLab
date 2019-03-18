@@ -2,6 +2,8 @@
 
 This lab will create a working release pipeline using Azure DevOps that will form the basis of the later labs.
 
+Before starting make sure you have an Azure subscription. [If using an Azure Pass then make sure you follow these instructions carefully](https://aka.ms/azurepasssetup).
+
 # Step 1: Create an Azure DevOps Project
 
 This step will use the Azure Portal DevOps Projects to create the complete initial pipeline.
