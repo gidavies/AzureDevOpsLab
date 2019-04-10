@@ -12,7 +12,8 @@ You will see that the backlog is empty and that no work has been assigned to any
 
 <img src="images/Lab4_2a.jpg" width="624"/>
 
-Give the work item (a user story by default if using the Agile template) a title e.g. "Update the about page in the web application" and click the Add to bottom button:
+Note that the work item type(s) you see will depend on the default set in your Azure DevOps organisation. If you created a new Azure DevOps organisation then the default is the Basic process template and you will see issues, rather than the user stories shown below. It will make no difference to the lab, so follow the steps below but with issues instead of user stories.
+Give the work item a title e.g. "Update the about page in the web application" and click the Add to bottom button:
 
 <img src="images/Lab4_3a.jpg" width="624"/>
 
